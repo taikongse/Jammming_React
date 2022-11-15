@@ -1,5 +1,5 @@
 const CLIENT_ID = 'f3f3f9dcf1bb4293ac7f0bddc5765688';
-const REDIRECT_URI = 'https://coruscating-palmier-c6457c.netlify.app/';
+const REDIRECT_URI = 'https://react-jammming-create-a-playlist-api.netlify.app/';
 
 const localStorageKey = "accessToken";
 
